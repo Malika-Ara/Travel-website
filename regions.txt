@@ -1,0 +1,6 @@
+South: Telangana, Andhra Pradesh, Karnataka, Kerala, Tamil Nadu.
+West: Maharastra , Goa, gujarat
+East: Odisha, Jharkhand, West Bengal, Bihar
+North:Rajasthan, Haryana, Himachal Pradesh, Jammu and Kashmir,punjab,uttar pradesh,uttarakhand
+Central : Madhya Prasdesh,  chattisgarh.
+North Eastern: Arunachal Pradesh, Nagaland, Meghalaya, Manipur, Mizoram, Tripura,assam,sikkim,
